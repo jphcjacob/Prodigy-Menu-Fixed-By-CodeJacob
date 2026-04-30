@@ -7,6 +7,6 @@ Hi! I fixed this menu with features and bugs fixed!
 ✅️ Fixed other issues.
 
 ## Credits
-*Menu by Artrith*
-*Found by Byrrrd*
-**Ported and fixed by CodexJacob**
+*Menu by Artrith,*
+*Found by Byrrrd,*
+**Ported and fixed by CodexJacob.**
